@@ -1,0 +1,290 @@
+ 8:02:37 (lmgrd) -----------------------------------------------
+ 8:02:37 (lmgrd)   Please Note:
+ 8:02:37 (lmgrd) 
+ 8:02:37 (lmgrd)   This log is intended for debug purposes only.
+ 8:02:37 (lmgrd)   In order to capture accurate license
+ 8:02:37 (lmgrd)   usage data into an organized repository,
+ 8:02:37 (lmgrd)   please enable report logging. Use Flexera Software LLC's
+ 8:02:37 (lmgrd)   software license administration  solution,
+ 8:02:37 (lmgrd)   FlexNet Manager, to  readily gain visibility
+ 8:02:37 (lmgrd)   into license usage data and to create
+ 8:02:37 (lmgrd)   insightful reports on critical information like
+ 8:02:37 (lmgrd)   license availability and usage. FlexNet Manager
+ 8:02:37 (lmgrd)   can be fully automated to run these reports on
+ 8:02:37 (lmgrd)   schedule and can be used to track license
+ 8:02:37 (lmgrd)   servers and usage across a heterogeneous
+ 8:02:37 (lmgrd)   network of servers including Windows NT, Linux
+ 8:02:37 (lmgrd)   and UNIX.
+ 8:02:37 (lmgrd) 
+ 8:02:37 (lmgrd) -----------------------------------------------
+ 8:02:37 (lmgrd) 
+ 8:02:37 (lmgrd) 
+ 8:02:37 (lmgrd) Server's System Date and Time: Tue Dec 18 2018 08:02:37 Romance Standard Time
+ 8:02:37 (lmgrd) pid 2156
+ 8:02:37 (lmgrd) SLOG: Summary LOG statistics is enabled.
+ 8:02:37 (lmgrd) Done rereading
+ 8:02:37 (lmgrd) FlexNet Licensing (v11.14.1.3 build 212549 i86_n3) started on dk-srv-sw2015 (IBM PC) (12/18/2018)
+ 8:02:37 (lmgrd) Copyright (c) 1988-2017 Flexera Software LLC. All Rights Reserved.
+ 8:02:37 (lmgrd) World Wide Web:  http://www.flexerasoftware.com
+ 8:02:37 (lmgrd) License file(s): C:\Program Files (x86)\SOLIDWORKS Corp\SolidNetWork License Manager\licenses\sw_d.lic
+ 8:02:37 (lmgrd) lmgrd tcp-port 25734
+ 8:02:37 (lmgrd) (@lmgrd-SLOG@) ===============================================
+ 8:02:37 (lmgrd) (@lmgrd-SLOG@) === LMGRD ===
+ 8:02:37 (lmgrd) (@lmgrd-SLOG@) Start-Date: Tue Dec 18 2018 08:02:37 Romance Standard Time
+ 8:02:37 (lmgrd) (@lmgrd-SLOG@) PID: 2156
+ 8:02:37 (lmgrd) (@lmgrd-SLOG@) LMGRD Version: v11.14.1.3 build 212549 i86_n3 ( build 212549 (ipv6))
+ 8:02:37 (lmgrd) (@lmgrd-SLOG@) 
+ 8:02:37 (lmgrd) (@lmgrd-SLOG@) === Network Info ===
+ 8:02:37 (lmgrd) (@lmgrd-SLOG@) Listening port: 25734
+ 8:02:37 (lmgrd) (@lmgrd-SLOG@) 
+ 8:02:37 (lmgrd) (@lmgrd-SLOG@) === Startup Info ===
+ 8:02:37 (lmgrd) (@lmgrd-SLOG@) Is LS run as a service: Yes
+ 8:02:37 (lmgrd) (@lmgrd-SLOG@) Server Configuration: Single Server
+ 8:02:37 (lmgrd) (@lmgrd-SLOG@) Command-line options used at LS startup: -c C:\Program Files (x86)\SOLIDWORKS Corp\SolidNetWork License Manager\licenses\sw_d.lic -l C:\Program Files (x86)\SOLIDWORKS Corp\SolidNetWork License Manager\lmgrd.log -z -s 
+ 8:02:37 (lmgrd) (@lmgrd-SLOG@) License file(s) used:  C:\Program Files (x86)\SOLIDWORKS Corp\SolidNetWork License Manager\licenses\sw_d.lic
+ 8:02:37 (lmgrd) (@lmgrd-SLOG@) ===============================================
+ 8:02:37 (lmgrd) SLOG: FNPLS-INTERNAL-VL1-4096
+ 8:02:37 (lmgrd) Starting vendor daemons ... 
+ 8:02:37 (lmgrd) Starting vendor daemon at port 25735
+ 8:02:37 (lmgrd) Using vendor daemon port 25735 specified in license file
+ 8:02:37 (lmgrd) Started SW_D (pid 3880)
+ 8:02:37 (SW_D) FlexNet Licensing version v11.14.1.3 build 212549 i86_n3
+ 8:02:37 (SW_D) Feature swofficepremium superseded by swofficepremium
+ 8:02:37 (SW_D) Feature solidworks superseded by solidworks
+ 8:02:37 (SW_D) Feature swofficepro superseded by swofficepro
+ 8:02:37 (SW_D) Feature camstd superseded by camstd
+ 8:02:37 (SW_D) Feature visustd superseded by visustd
+ 8:02:37 (SW_D) Feature swofficepremium superseded by swofficepremium
+ 8:02:37 (SW_D) Feature solidworks superseded by solidworks
+ 8:02:37 (SW_D) Feature swofficepro superseded by swofficepro
+ 8:02:37 (SW_D) Feature camstd superseded by camstd
+ 8:02:37 (SW_D) Feature visustd superseded by visustd
+ 8:02:37 (SW_D) SLOG: Summary LOG statistics is enabled.
+ 8:02:37 (SW_D) SLOG: FNPLS-INTERNAL-CKPT1
+ 8:02:37 (SW_D) SLOG: VM Status: 1
+ 8:02:37 (SW_D) Feature visustd superseded by visustd
+ 8:02:37 (SW_D) Feature solidworks superseded by solidworks
+ 8:02:37 (SW_D) Feature camstd superseded by camstd
+ 8:02:37 (SW_D) Feature swpdmstd_cadeditor superseded by swpdmstd_cadeditor
+ 8:02:37 (SW_D) Feature swofficepremium superseded by swofficepremium
+ 8:02:37 (SW_D) Feature swofficepro superseded by swofficepro
+ 8:02:37 (SW_D) Server started on dk-srv-sw2015 for:	swpdmstd_cadeditor 
+ 8:02:37 (SW_D) visustd		camstd		solidworks	
+ 8:02:37 (SW_D) swofficepro	swofficepremium snlcore		
+ 8:02:37 (SW_D) swepdm_cadeditorandweb swepdm_viewer	
+ 8:02:37 (SW_D) EXTERNAL FILTERS are OFF
+ 8:02:37 (lmgrd) SW_D using TCP-port 25735
+ 8:02:37 (SW_D) SLOG: Statistics Log Frequency is 240 minute(s).
+ 8:02:37 (SW_D) SLOG: TS update poll interval is 600 seconds.
+ 8:02:37 (SW_D) SLOG: Activation borrow reclaim percentage is 0.
+ 8:02:37 (SW_D) (@SW_D-SLOG@) ===============================================
+ 8:02:37 (SW_D) (@SW_D-SLOG@) === Vendor Daemon ===
+ 8:02:37 (SW_D) (@SW_D-SLOG@) Vendor daemon: SW_D
+ 8:02:37 (SW_D) (@SW_D-SLOG@) Start-Date: Tue Dec 18 2018 08:02:37 Romance Standard Time
+ 8:02:37 (SW_D) (@SW_D-SLOG@) PID: 3880
+ 8:02:37 (SW_D) (@SW_D-SLOG@) VD Version: v11.14.1.3 build 212549 i86_n3 ( build 212549 (ipv6))
+ 8:02:37 (SW_D) (@SW_D-SLOG@) 
+ 8:02:37 (SW_D) (@SW_D-SLOG@) === Startup/Restart Info ===
+ 8:02:37 (SW_D) (@SW_D-SLOG@) Options file used: None
+ 8:02:37 (SW_D) (@SW_D-SLOG@) Is vendor daemon a CVD: No
+ 8:02:37 (SW_D) (@SW_D-SLOG@) Is TS accessed: Yes
+ 8:02:37 (SW_D) (@SW_D-SLOG@) TS accessed for feature load: Tue Dec 18 2018 08:02:37 Romance Standard Time
+ 8:02:37 (SW_D) (@SW_D-SLOG@) Number of VD restarts since LS startup: 0
+ 8:02:37 (SW_D) (@SW_D-SLOG@) 
+ 8:02:37 (SW_D) (@SW_D-SLOG@) === Network Info ===
+ 8:02:37 (SW_D) (@SW_D-SLOG@) Listening port: 25735
+ 8:02:37 (SW_D) (@SW_D-SLOG@) Daemon select timeout (in seconds): 1
+ 8:02:37 (SW_D) (@SW_D-SLOG@) 
+ 8:02:37 (SW_D) (@SW_D-SLOG@) === Host Info ===
+ 8:02:37 (SW_D) (@SW_D-SLOG@) Host used in license file: dk-srv-sw2015
+ 8:02:37 (SW_D) (@SW_D-SLOG@) Running on Hypervisor: VMWare
+ 8:02:37 (SW_D) (@SW_D-SLOG@) ===============================================
+ 8:02:37 (SW_D) TCP_NODELAY NOT enabled
+ 8:02:37 (SW_D) OUT: "swepdm_cadeditorandweb" Rasmus Lundholt@PC341  
+ 8:02:56 (SW_D) UNSUPPORTED: "swepdm_cadeditor" (PORT_AT_HOST_PLUS   ) Igor Murlin@UA-DTC-IMN  (No such feature exists. (-5,346))
+ 8:02:56 (SW_D) OUT: "swepdm_cadeditorandweb" Igor Murlin@UA-DTC-IMN  
+ 8:03:31 (SW_D) OUT: "solidworks" Igor Murlin@ua-dtc-imn  
+ 8:03:39 (SW_D) OUT: "solidworks" Michal Dawidowski@PL-LPT-MDW  
+ 8:04:15 (SW_D) OUT: "solidworks" Dmytro Chupryna@ua-dtc-dch  
+ 8:04:21 (SW_D) OUT: "swepdm_cadeditorandweb" Dmytro Chupryna@UA-DTC-DCH  
+ 8:05:32 (SW_D) OUT: "solidworks" Rasmus Lundholt@PC341  
+ 8:08:37 (SW_D) OUT: "solidworks" Sergey Kachur@UA-DTC-SKA  
+ 8:09:00 (SW_D) UNSUPPORTED: "swepdm_cadeditor" (PORT_AT_HOST_PLUS   ) Sebastian Hansen@DK-DTC-SHA  (No such feature exists. (-5,346))
+ 8:09:00 (SW_D) OUT: "swepdm_cadeditorandweb" Sebastian Hansen@DK-DTC-SHA  
+ 8:09:15 (SW_D) OUT: "solidworks" Sebastian Hansen@DK-DTC-SHA  
+ 8:10:30 (SW_D) OUT: "solidworks" finn Hansen@DK-DTC-FINN  
+ 8:10:50 (SW_D) OUT: "solidworks" Kostiantyn Kliuchevs@UA-DTC-KKH  
+ 8:11:50 (SW_D) OUT: "swepdm_cadeditorandweb" finn hansen@DK-DTC-FINN  
+ 8:13:12 (SW_D) OUT: "swepdm_cadeditorandweb" Oliver Sundberg@DK-DTC-OSU1  
+ 8:13:27 (SW_D) OUT: "swepdm_cadeditorandweb" Asbjoern Harder@DK-LPT-ASE  
+ 8:13:45 (SW_D) OUT: "swepdm_cadeditorandweb" Karol Trzeciak@PL-DTC-404  
+ 8:14:23 (SW_D) UNSUPPORTED: "swepdm_cadeditor" (PORT_AT_HOST_PLUS   ) scott jespersen@DK-DTC-JLN  (No such feature exists. (-5,346))
+ 8:14:23 (SW_D) OUT: "swepdm_cadeditorandweb" scott jespersen@DK-DTC-JLN  
+ 8:15:00 (SW_D) OUT: "swepdm_cadeditorandweb" Maksym Archybasov@UA-DTC-MAC  
+ 8:18:29 (SW_D) OUT: "solidworks" Maksym Archybasov@UPC89  
+ 8:18:47 (SW_D) OUT: "solidworks" Karol Trzeciak@PL-DTC-404  
+ 8:18:48 (SW_D) OUT: "camstd" Karol Trzeciak@PL-DTC-404  
+ 8:19:17 (SW_D) UNSUPPORTED: "camcore" (PORT_AT_HOST_PLUS   ) Maksym Archybasov@UPC89  (No such feature exists. (-5,346))
+ 8:19:17 (SW_D) OUT: "camstd" Maksym Archybasov@UPC89  
+ 8:20:33 (SW_D) UNSUPPORTED: "swepdm_cadeditor" (PORT_AT_HOST_PLUS   ) Maksym Archybasov@UPC89  (No such feature exists. (-5,346))
+ 8:20:33 (SW_D) OUT: "swepdm_cadeditorandweb" Maksym Archybasov@UPC89  
+ 8:21:38 (SW_D) IN: "solidworks" Rasmus Lundholt@PC341  
+ 8:22:02 (SW_D) OUT: "swepdm_viewer" Michal Dawidowski@PL-LPT-MDW  
+ 8:22:11 (SW_D) UNSUPPORTED: "cae_cwdesigner" (PORT_AT_HOST_PLUS   ) Kostiantyn Kliuchevs@UA-DTC-KKH  (No such feature exists. (-5,346))
+ 8:22:11 (SW_D) UNSUPPORTED: "cae_cwstd" (PORT_AT_HOST_PLUS   ) Kostiantyn Kliuchevs@UA-DTC-KKH  (No such feature exists. (-5,346))
+ 8:22:12 (SW_D) UNSUPPORTED: "cae_cwpro" (PORT_AT_HOST_PLUS   ) Kostiantyn Kliuchevs@UA-DTC-KKH  (No such feature exists. (-5,346))
+ 8:22:12 (SW_D) UNSUPPORTED: "cae_cwadvpro" (PORT_AT_HOST_PLUS   ) Kostiantyn Kliuchevs@UA-DTC-KKH  (No such feature exists. (-5,346))
+ 8:22:12 (SW_D) OUT: "swofficepremium" Kostiantyn Kliuchevs@UA-DTC-KKH  
+ 8:23:19 (SW_D) OUT: "swepdm_cadeditorandweb" Kostiantyn Kliuchevs@UA-DTC-KKH  
+ 8:27:45 (SW_D) OUT: "solidworks" yuliia kozii@UA-DTC-YUK  
+ 8:28:41 (SW_D) UNSUPPORTED: "swepdm_cadeditor" (PORT_AT_HOST_PLUS   ) Paula Kus@PL-DTC-261  (No such feature exists. (-5,346))
+ 8:28:41 (SW_D) OUT: "swepdm_cadeditorandweb" Paula Kus@PL-DTC-261  
+ 8:29:59 (SW_D) IN: "solidworks" Michal Dawidowski@PL-LPT-MDW  
+ 8:30:09 (SW_D) OUT: "swepdm_cadeditorandweb" Morten Reventlow@DK-LPT-MRV2  
+ 8:31:27 (SW_D) OUT: "solidworks" scott jespersen@DK-DTC-JLN  
+ 8:31:37 (SW_D) OUT: "solidworks" Vladyslav Yarmoliuk@UA-DTC-VYA  
+ 8:32:01 (SW_D) UNSUPPORTED: "swepdm_cadeditor" (PORT_AT_HOST_PLUS   ) Vladyslav Yarmoliuk@UA-DTC-VYA  (No such feature exists. (-5,346))
+ 8:32:01 (SW_D) OUT: "swepdm_cadeditorandweb" Vladyslav Yarmoliuk@UA-DTC-VYA  
+ 8:32:06 (SW_D) OUT: "solidworks" Mads Andersen@DK-DTC-MAN  
+ 8:34:43 (SW_D) OUT: "swepdm_cadeditorandweb" Mads Andersen@DK-DTC-MAN  
+ 8:35:06 (SW_D) OUT: "swepdm_cadeditorandweb" Piotr Kruk@PL-LPT-PKK  
+ 8:36:00 (SW_D) OUT: "swepdm_viewer" Steven Andersen@DK-LPT-SAM1  
+ 8:40:22 (SW_D) OUT: "solidworks" Oleksii Borodianskyi@UA-DTC-OBO  
+ 8:40:42 (SW_D) OUT: "swepdm_viewer" Alicja Ilnicka@PL-DTC-AIL2  
+ 8:40:51 (SW_D) OUT: "swepdm_cadeditorandweb" Sergey Kachur@UA-DTC-SKA  
+ 8:42:07 (SW_D) OUT: "solidworks" Alicja Ilnicka@pl-dtc-ail2  
+ 8:43:23 (SW_D) IN: "solidworks" Alicja Ilnicka@pl-dtc-ail2  
+ 8:43:47 (SW_D) OUT: "solidworks" simon lange@DK-DTC-SLA  
+ 8:44:54 (SW_D) OUT: "solidworks" Oliver Sundberg@DK-DTC-OSU1  
+ 8:44:54 (SW_D) OUT: "swofficepremium" Oliver Sundberg@DK-DTC-OSU1  
+ 8:45:36 (SW_D) OUT: "solidworks" Rasmus Lundholt@PC341  
+ 8:46:11 (SW_D) OUT: "solidworks" Serhii Yurko@UA-DTC-SYU  
+ 8:46:40 (SW_D) UNSUPPORTED: "swepdm_cadeditor" (PORT_AT_HOST_PLUS   ) Jonathon Casey@DK-DTC-JCS  (No such feature exists. (-5,346))
+ 8:46:40 (SW_D) OUT: "swepdm_cadeditorandweb" Jonathon Casey@DK-DTC-JCS  
+ 8:47:23 (SW_D) OUT: "swepdm_cadeditorandweb" Serhii Yurko@UA-DTC-SYU  
+ 8:47:35 (SW_D) UNSUPPORTED: "swepdm_cadeditor" (PORT_AT_HOST_PLUS   ) Dylan Reynolds@DK-DTC-DRE  (No such feature exists. (-5,346))
+ 8:47:35 (SW_D) OUT: "swepdm_cadeditorandweb" Dylan Reynolds@DK-DTC-DRE  
+ 8:48:01 (SW_D) OUT: "swepdm_cadeditorandweb" Simon Lange@DK-DTC-SLA  
+ 8:51:50 (SW_D) OUT: "solidworks" Dan Stokholm@DK-DTC-DST  
+ 8:52:23 (SW_D) OUT: "swepdm_cadeditorandweb" Oleksii Borodianskyi@UA-DTC-OBO  
+ 8:55:51 (SW_D) OUT: "solidworks" Jonathon Casey@DK-DTC-JCS  
+ 8:56:12 (SW_D) OUT: "swepdm_cadeditorandweb" Dan Stokholm@DK-DTC-DST  
+ 8:57:32 (SW_D) OUT: "swepdm_cadeditorandweb" yuliia kozii@UA-DTC-YUK  
+ 8:58:37 (SW_D) OUT: "solidworks" Alicja Ilnicka@pl-dtc-ail2  
+ 8:59:45 (SW_D) OUT: "swepdm_viewer" annemiek chall@DK-LPT-ACL  
+ 8:59:54 (SW_D) IN: "solidworks" Alicja Ilnicka@pl-dtc-ail2  
+ 9:00:07 (SW_D) OUT: "solidworks" Dylan Reynolds@dk-dtc-dre  
+ 9:01:50 (SW_D) IN: "solidworks" Rasmus Lundholt@PC341  
+ 9:06:27 (SW_D) OUT: "swepdm_cadeditorandweb" alexey morozenko@UALAPTOP15  
+ 9:07:39 (SW_D) UNSUPPORTED: "swepdm_cadeditor" (PORT_AT_HOST_PLUS   ) Robert Dabrowski@PL-DTC-RDB2  (No such feature exists. (-5,346))
+ 9:07:39 (SW_D) OUT: "solidworks" Alexander Burimsky@UA-DTC-OBU  
+ 9:07:40 (SW_D) OUT: "swepdm_cadeditorandweb" Robert Dabrowski@PL-DTC-RDB2  
+ 9:08:40 (SW_D) OUT: "solidworks" Steven Andersen@DK-LPT-SAM1  
+ 9:09:09 (SW_D) UNSUPPORTED: "swepdm_cadeditor" (PORT_AT_HOST_PLUS   ) anders larsen@DK-DTC-ALA  (No such feature exists. (-5,346))
+ 9:09:09 (SW_D) OUT: "swepdm_cadeditorandweb" anders larsen@DK-DTC-ALA  
+ 9:09:19 (SW_D) OUT: "solidworks" anders larsen@DK-DTC-ALA  
+ 9:13:31 (SW_D) IN: "solidworks" yuliia kozii@UA-DTC-YUK  
+ 9:16:25 (SW_D) OUT: "solidworks" Michal Dawidowski@PL-LPT-MDW  
+ 9:16:29 (SW_D) OUT: "solidworks" yuliia kozii@UA-DTC-YUK  
+ 9:17:35 (SW_D) IN: "solidworks" Michal Dawidowski@PL-LPT-MDW  
+ 9:17:44 (SW_D) OUT: "swepdm_viewer" poul ravn@DK-LPT-PRV  
+ 9:18:05 (SW_D) OUT: "swepdm_cadeditorandweb" Alan Cortizo@DK-DTC-ACO  
+ 9:19:56 (SW_D) OUT: "swepdm_cadeditorandweb" troels arnved@DK-DTC-TAR  
+ 9:20:06 (SW_D) OUT: "solidworks" troels arnved@DK-DTC-TAR  
+ 9:24:51 (SW_D) UNSUPPORTED: "swepdm_cadeditor" (PORT_AT_HOST_PLUS   ) oliver billeskov@DK-DTC-OBI  (No such feature exists. (-5,346))
+ 9:24:51 (SW_D) OUT: "swepdm_cadeditorandweb" oliver billeskov@DK-DTC-OBI  
+ 9:36:12 (SW_D) OUT: "solidworks" Tais@Jetline-1723  
+ 9:37:46 (SW_D) OUT: "swepdm_cadeditorandweb" Alexander Burimsky@UA-DTC-OBU  
+ 9:39:08 (SW_D) UNSUPPORTED: "swepdm_cadeditor" (PORT_AT_HOST_PLUS   ) Sebastian Gielarowsk@PL-DTC-037  (No such feature exists. (-5,346))
+ 9:39:08 (SW_D) OUT: "swepdm_cadeditorandweb" Sebastian Gielarowsk@PL-DTC-037  
+ 9:41:23 (SW_D) OUT: "solidworks" Sebastian Gielarowsk@PL-DTC-037  
+ 9:45:52 (SW_D) OUT: "solidworks" Alan Cortizo@DK-DTC-ACO  
+ 9:45:58 (SW_D) UNSUPPORTED: "cae_cwdesigner" (PORT_AT_HOST_PLUS   ) Alan Cortizo@DK-DTC-ACO  (No such feature exists. (-5,346))
+ 9:45:58 (SW_D) UNSUPPORTED: "cae_cwstd" (PORT_AT_HOST_PLUS   ) Alan Cortizo@DK-DTC-ACO  (No such feature exists. (-5,346))
+ 9:45:58 (SW_D) UNSUPPORTED: "cae_cwpro" (PORT_AT_HOST_PLUS   ) Alan Cortizo@DK-DTC-ACO  (No such feature exists. (-5,346))
+ 9:45:58 (SW_D) UNSUPPORTED: "cae_cwadvpro" (PORT_AT_HOST_PLUS   ) Alan Cortizo@DK-DTC-ACO  (No such feature exists. (-5,346))
+ 9:45:59 (SW_D) DENIED: "swofficepremium" Alan Cortizo@DK-DTC-ACO  (Licensed number of users already reached. (-4,342))
+ 9:45:59 (SW_D) UNSUPPORTED: "swofficepremium_cwpro" (PORT_AT_HOST_PLUS   ) Alan Cortizo@DK-DTC-ACO  (No such feature exists. (-5,346))
+ 9:45:59 (SW_D) UNSUPPORTED: "swofficepremium_cwadvpro" (PORT_AT_HOST_PLUS   ) Alan Cortizo@DK-DTC-ACO  (No such feature exists. (-5,346))
+ 9:46:05 (SW_D) UNSUPPORTED: "tolanalyst" (PORT_AT_HOST_PLUS   ) Alan Cortizo@DK-DTC-ACO  (No such feature exists. (-5,346))
+ 9:46:05 (SW_D) OUT: "swofficepro" Alan Cortizo@DK-DTC-ACO  
+ 9:47:38 (SW_D) OUT: "swepdm_cadeditorandweb" edward matos@DK-LPT-EMA  
+ 9:48:49 (SW_D) IN: "solidworks" Steven Andersen@DK-LPT-SAM1  
+ 9:49:13 (SW_D) IN: "solidworks" yuliia kozii@UA-DTC-YUK  
+ 9:50:27 (SW_D) IN: "swepdm_cadeditorandweb" Sergey Kachur@UA-DTC-SKA  
+ 9:50:33 (SW_D) IN: "solidworks" Sergey Kachur@UA-DTC-SKA  
+ 9:51:33 (SW_D) IN: "swepdm_viewer" Steven Andersen@DK-LPT-SAM1  
+ 9:53:07 (SW_D) OUT: "swepdm_cadeditorandweb" Mariusz Wasiuta@PL-DTC-MWA  
+ 9:54:06 (SW_D) IN: "solidworks" Alexander Burimsky@UA-DTC-OBU  
+ 9:54:08 (SW_D) OUT: "swepdm_viewer" Steven Andersen@DK-LPT-SAM1  
+ 9:54:32 (SW_D) OUT: "solidworks" Alexander Burimsky@UA-DTC-OBU  
+ 9:54:51 (SW_D) UNSUPPORTED: "swepdm_cadeditor" (PORT_AT_HOST_PLUS   ) Sergey Kachur@UA-DTC-SKA  (No such feature exists. (-5,346))
+ 9:54:52 (SW_D) OUT: "swepdm_cadeditorandweb" Sergey Kachur@UA-DTC-SKA  
+ 9:55:27 (SW_D) IN: "solidworks" Alexander Burimsky@UA-DTC-OBU  
+ 9:55:46 (SW_D) OUT: "solidworks" Alexander Burimsky@UA-DTC-OBU  
+ 9:56:43 (SW_D) IN: "solidworks" Alexander Burimsky@UA-DTC-OBU  
+ 9:57:05 (SW_D) OUT: "solidworks" Alexander Burimsky@UA-DTC-OBU  
+ 9:57:18 (SW_D) IN: "swepdm_cadeditorandweb" Alexander Burimsky@UA-DTC-OBU  
+ 9:57:18 (SW_D) IN: "solidworks" Alexander Burimsky@UA-DTC-OBU  
+ 9:59:05 (SW_D) OUT: "solidworks" yuliia kozii@UA-DTC-YUK  
+ 9:59:07 (SW_D) IN: "swepdm_cadeditorandweb" yuliia kozii@UA-DTC-YUK  
+ 9:59:07 (SW_D) IN: "solidworks" yuliia kozii@UA-DTC-YUK  
+10:08:12 (SW_D) UNSUPPORTED: "swepdm_cadeditor" (PORT_AT_HOST_PLUS   ) yuliia kozii@UA-DTC-YUK  (No such feature exists. (-5,346))
+10:08:13 (SW_D) OUT: "swepdm_cadeditorandweb" yuliia kozii@UA-DTC-YUK  
+10:09:25 (SW_D) OUT: "solidworks" Alexander Burimsky@UA-DTC-OBU  
+10:09:36 (SW_D) OUT: "solidworks" Sergey Kachur@UA-DTC-SKA  
+10:09:55 (SW_D) UNSUPPORTED: "swepdm_cadeditor" (PORT_AT_HOST_PLUS   ) Alexander Burimsky@UA-DTC-OBU  (No such feature exists. (-5,346))
+10:09:55 (SW_D) OUT: "swepdm_cadeditorandweb" Alexander Burimsky@UA-DTC-OBU  
+10:11:05 (SW_D) OUT: "solidworks" Steven Andersen@DK-LPT-SAM1  
+10:13:58 (SW_D) OUT: "solidworks" yuliia kozii@UA-DTC-YUK  
+10:16:23 (SW_D) IN: "solidworks" yuliia kozii@UA-DTC-YUK  
+10:18:10 (SW_D) IN: "solidworks" Tais@Jetline-1723  
+10:18:19 (SW_D) OUT: "solidworks" yuliia kozii@UA-DTC-YUK  
+10:21:38 (SW_D) OUT: "solidworks" Tomasz Skrobol@PL-DTC-TSR  
+10:23:06 (SW_D) IN: "swepdm_cadeditorandweb" Maksym Archybasov@UPC89  
+10:25:10 (SW_D) IN: "solidworks" Dmytro Chupryna@ua-dtc-dch  
+10:25:15 (SW_D) OUT: "solidworks" Dmytro Chupryna@ua-dtc-dch  
+10:26:11 (SW_D) OUT: "solidworks" Lars Staehr@DK-DTC-LST  
+10:29:08 (SW_D) OUT: "swepdm_cadeditorandweb" Tomasz Skrobol@PL-DTC-TSR  
+10:31:24 (SW_D) IN: "solidworks" Tomasz Skrobol@PL-DTC-TSR  
+10:33:28 (SW_D) IN: "swepdm_cadeditorandweb" Paula Kus@PL-DTC-261  
+10:33:39 (SW_D) IN: "solidworks" Lars Staehr@DK-DTC-LST  
+10:37:53 (SW_D) OUT: "solidworks" Rasmus Lundholt@PC341  
+10:40:12 (SW_D) OUT: "solidworks" Asbjoern Harder@DK-LPT-ASE  
+10:40:27 (SW_D) OUT: "solidworks" Maksym Archybasov@UA-DTC-MAC  
+10:40:36 (SW_D) UNSUPPORTED: "camcore" (PORT_AT_HOST_PLUS   ) Maksym Archybasov@UA-DTC-MAC  (No such feature exists. (-5,346))
+10:40:36 (SW_D) OUT: "camstd" Maksym Archybasov@UA-DTC-MAC  
+10:44:40 (SW_D) IN: "solidworks" Rasmus Lundholt@PC341  
+10:44:40 (SW_D) OUT: "swepdm_cadeditorandweb" Paula Kus@PL-DTC-261  
+10:46:33 (SW_D) OUT: "swepdm_cadeditorandweb" Maksym Archybasov@UPC89  
+10:55:20 (SW_D) IN: "swepdm_cadeditorandweb" alexey morozenko@UALAPTOP15  
+10:56:24 (SW_D) IN: "solidworks" Asbjoern Harder@DK-LPT-ASE  
+10:56:43 (SW_D) DENIED: "swepdm_viewer" tobias oestergren@DK-LPT-TOS  (Licensed number of users already reached. (-4,342))
+10:56:43 (SW_D) UNSUPPORTED: "swepdm_processor" (PORT_AT_HOST_PLUS   ) tobias oestergren@DK-LPT-TOS  (No such feature exists. (-5,346))
+10:56:43 (SW_D) UNSUPPORTED: "swmanagepro_viewer" (PORT_AT_HOST_PLUS   ) tobias oestergren@DK-LPT-TOS  (No such feature exists. (-5,346))
+10:56:43 (SW_D) UNSUPPORTED: "swmanagepro_processor" (PORT_AT_HOST_PLUS   ) tobias oestergren@DK-LPT-TOS  (No such feature exists. (-5,346))
+11:03:34 (SW_D) IN: "solidworks" Dan Stokholm@DK-DTC-DST  
+11:03:52 (SW_D) IN: "solidworks" scott jespersen@DK-DTC-JLN  
+11:06:40 (SW_D) OUT: "solidworks" Asbjoern Harder@DK-LPT-ASE  
+11:06:57 (SW_D) OUT: "solidworks" Dan Stokholm@DK-DTC-DST  
+11:08:45 (SW_D) OUT: "solidworks" Asbjoern Harder@DK-LPT-ASE  
+11:09:46 (SW_D) IN: "solidworks" Asbjoern Harder@DK-LPT-ASE  
+11:10:31 (SW_D) UNSUPPORTED: "swepdm_cadeditor" (PORT_AT_HOST_PLUS   ) Tom Moon@DK-LPT-LST  (No such feature exists. (-5,346))
+11:10:31 (SW_D) OUT: "swepdm_cadeditorandweb" Tom Moon@DK-LPT-LST  
+11:13:00 (SW_D) IN: "camstd" Maksym Archybasov@UPC89  
+11:13:05 (SW_D) IN: "solidworks" Maksym Archybasov@UPC89  
+11:13:08 (SW_D) IN: "camstd" Maksym Archybasov@UA-DTC-MAC  
+11:13:10 (SW_D) IN: "solidworks" Maksym Archybasov@UA-DTC-MAC  
+11:13:37 (SW_D) OUT: "solidworks" Igor Murlin@ua-dtc-imn  
+11:15:00 (SW_D) IN: "solidworks" Igor Murlin@ua-dtc-imn  
+11:15:15 (SW_D) OUT: "solidworks" Asbjoern Harder@DK-LPT-ASE  
+11:15:16 (SW_D) IN: "solidworks" Igor Murlin@ua-dtc-imn  
+11:15:16 (SW_D) IN: "swepdm_cadeditorandweb" Igor Murlin@UA-DTC-IMN  
+11:15:51 (SW_D) IN: "solidworks" Asbjoern Harder@DK-LPT-ASE  
+11:17:01 (SW_D) OUT: "solidworks" Igor Murlin@ua-dtc-imn  
+11:17:51 (SW_D) UNSUPPORTED: "swepdm_cadeditor" (PORT_AT_HOST_PLUS   ) Igor Murlin@UA-DTC-IMN  (No such feature exists. (-5,346))
+11:17:51 (SW_D) OUT: "swepdm_cadeditorandweb" Igor Murlin@UA-DTC-IMN  
+11:20:41 (SW_D) IN: "swepdm_viewer" poul ravn@DK-LPT-PRV  
+11:28:11 (SW_D) IN: "solidworks" yuliia kozii@UA-DTC-YUK  
+11:30:14 (SW_D) OUT: "solidworks" Rasmus Lundholt@PC341  
+11:32:03 (SW_D) OUT: "solidworks" Maksym Archybasov@UA-DTC-MAC  

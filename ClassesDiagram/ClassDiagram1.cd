@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="LicenseTracker.Utility.LicenseFileParser.RowEntity">
+    <Position X="1" Y="5.25" Width="2.25" />
+    <TypeIdentifier>
+      <HashCode>AAAgAAAAIAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>RowEntity.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LicenseTracker.Utility.LicenseFileParser.LicenseUsage">
+    <Position X="1" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAACAIAAAgAAAIAAAAAAAAAABAAAAAQAAIAAAAAA=</HashCode>
+      <FileName>LicenseUsage.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LicenseTracker.Utility.LicenseFileParser.LicenseTimeStamp">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LicenseTimeStamp.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LicenseTracker.Utility.LicenseFileParser.LicenseLiteral&lt;TValue&gt;">
+    <Position X="5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>LicenseLiteral.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LicenseTracker.Utility.LicenseFileParser.LicenseAction">
+    <Position X="5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>LicenseAction.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="LicenseTracker.Utility.LicenseFileParser.AnyRow">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>AnyRow.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
